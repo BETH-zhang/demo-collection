@@ -1,0 +1,12 @@
+{
+    "name": "demo-collection",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "push": "git push origin master && git push github master && git push gitee master"
+    },
+    "author": "",
+    "license": "ISC"
+  }
